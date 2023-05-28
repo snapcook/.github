@@ -1,3 +1,9 @@
+<p align="center">
+  <a target="_blank" href="https://github.com/snapcook">
+  <img alt="snapcook logo" src="https://storage.googleapis.com/snapcook-dev-storage/logo/snapcook-logo-full.svg" width="300">
+  </a>
+</p>
+
 # Snapcook - Bangkit 2023 Capstone Project
 
 Snapcook is a solution for individuals to reduce food waste, find suitable recipes for their ingredients and promote more healthy life habits. It’s as easy as taking a picture of your ingredients at hand and our app will give you recipe recommendations, then all you have to do is pick the recipe that is best suited to your taste.
