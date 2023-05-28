@@ -20,7 +20,7 @@ Android application that can provide recipe recommendations based on photos of i
 
 ### Machine Learning (ML)
 
-[Machine Learning](https://github.com/snapcook/ml-model)
+[Machine Learning](https://github.com/snapcook/machine-learning)
 
 ### Mobile Development (MD)
 
